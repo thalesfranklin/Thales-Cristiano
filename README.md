@@ -2,64 +2,56 @@
 <img width=100% bottom=50px src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/c3776d4b-8978-49b6-b7a4-e44b382e59c5"/>
 <br>
 <br> 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=33&pause=1000&color=F71111&random=false&width=435&lines=Hello%2C+my+name+is+Thales;I'+m+web+developer;I'+m+from+Brazil;I'+m+23+years+old;Welcome+%3A+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
-
+</div>
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thalesfranklin&theme=youtube-dark&hide_border=falso&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
-
+<br>
+<br>
+  
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+  
+<a href="https://www.linkedin.com/in/thales-cristiano-3398982ab/" target="_blank">
+<img align="center" height="50" width="50" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/e4b18cfc-3285-4b71-90ec-d1b4faf97ff0">
 </a>
 
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
-</a>
-
-
-<a href="mailto:cmp.1a.caroline@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<a  href="https://www.instagram.com/thalesfranklin_/" target="_blank">
+<img align="center"  height="60" width="60" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/fdc3e0dc-fedf-4c02-acf7-f6c7fd0eb56d">
 </a>
 
 </div>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-
-</div>
+<br>
+<br>
 
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="">
+<img align="left" height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/72770fdf-3d7b-421f-a75e-e6a9a051dc38">
 
-<img align="left" height="80" width="80" src="">
+<img align="left" height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/65631a5e-74fd-4d9a-9130-a71ecaa5b43a">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/20f898a1-4322-4c7d-902d-1a9bec421262">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/913b280a-f1c5-4b8d-890f-1664e025c623">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/d30309b9-38dc-42d1-89ab-e14c7b5fcbab">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/d0b165bf-dde1-46fc-bb3e-e80475a40121">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/db087858-ffe9-41f6-8902-7fd899545561">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/1386f4f5-7623-4545-ac7a-a810c3cdc33b">
 
 </div>
 
@@ -76,15 +68,12 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/1386f4f5-7623-4545-ac7a-a810c3cdc33b">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/db087858-ffe9-41f6-8902-7fd899545561">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="40" width="40" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/2be41f83-9bad-482b-9b89-03e11d45920d">
 
-<img align="left"  height="80" width="80" src="">
-
-<img align="left"  height="80" width="80" src="">
 
 </div>
 
@@ -98,20 +87,8 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fthalesfranklin&s=40&c=ff0000&bg=00000000&no=2&ff=electrolize&tb=Visitantes%3A&ta=" alt="visits"></p> 
 <br>
 </div>
 
 
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
-
-<br>
-<br> 
-
-
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
